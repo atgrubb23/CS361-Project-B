@@ -1,5 +1,5 @@
 
-var turl = "http://web.engr.oregonstate.edu/~nayara/cs361/goals/data.php";
+var turl = "http://web.engr.oregonstate.edu/~grubba/cs361/goals/data.php";
 function addGoal()
 {
 	var error_area = document.getElementById("status");
